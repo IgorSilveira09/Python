@@ -1,0 +1,1 @@
+##Estes são desafios feitos para aprimoramento da lógica de programação e estudo de Python.###
